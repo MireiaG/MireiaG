@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mireia
-- 👀 I have a Master's on Indutrial Engineering Technologies, and I'm interested in the fields of machine learning in the industry, augmented reality and robotics.
+- 👀 I have a Master's on Engineering in Industrial Technologies, and I'm interested in the fields of machine learning in the industry, augmented reality and robotics.
 - 🌱 Always learning something
 - 💞️ Coding makes me jump, cry, laugh, exasperate and dance!
 - 📫 You can reach me by email: mireiagraells95@gmail.com or LinkedIn: /in/mireiagraells/
